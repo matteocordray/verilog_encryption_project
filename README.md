@@ -1,4 +1,4 @@
-# FPGA Journey - Implementing Encryption Standards on FPGAs
+# FPGA Learning Journey - Implementing Encryption Standards
 
 This project serves to outline my journey in learning verilog and implementing an encryption standard, such as AES, on an FPGA.
 
