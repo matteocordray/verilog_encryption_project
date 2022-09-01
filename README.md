@@ -39,3 +39,10 @@ Every folder will contain a project that correlates to a test that I'm learning.
 The first project will start with creating a half-adder circuit. For most of the start of my journey, I'm using the [FPGA Designs with Verilog and SystemVerilog](https://verilogguide.readthedocs.io/en/latest/verilog/firstproject.html) guide to learn specifically how to upload and work with verilog and the DE1-SoC board I'm using, in addition to the youtube playlist [Shawn Hymel's Introduction to FPGAs](https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb).
 
 Any other resources used for me to learn this will be described in the ```README.md``` file at the bottom. 
+
+## FAQ
+
+1. What should I use to view verilog files?
+   * Typically I use Notepad++ for simple file viewing. Once projects get more complicated, I plan on using VSCode (I use PlatformIO for my embedded work, so it will be easy and familiar for me to use). Most IDEs can view verilog, but you might have to go into the details to see if the one you want to use supports it.
+2. Where do I start?
+   * I would definitely start with the video tutorial series by Shawn Hymel linked above as well as the FPGA Designs with Verilog guide even if you don't have the DE1-SoC board. It provides many useful projects that you can see in addition to what I'll be working on. My goal is to document and show how I went through learning verilog and specifically with FPGAs.
